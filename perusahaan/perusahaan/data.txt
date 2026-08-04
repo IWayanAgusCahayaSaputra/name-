@@ -1,0 +1,14 @@
+nama, umur, nomorKaryawan, jabatan, gaji, lembur
+Pajak = 11%
+Biaya kesehatan = 1%
+Biaya lembur = 60000 per jam. jika tidak ada lembur 0, jika 12 jam lembur dapat 10, jika lembur 24 jam dapat 20, jika lembur 36 jam dapat 30, 
+                              jika lembur 48 jam dapat 40 (waktu lembur yang diambil dalam 1 bulan periode)
+bonus lembur = 0%, 10%, 20%, 30%, 40% (dari gaji pokok)
+jabatan: staff, supervisor, manajer, general manajer, general manajer, direktur, vice president , chief level
+staff = 3.500.000
+supervisor = 5.000.000
+manajer = 8.000.000
+general manajer = 11.000.000
+direktur = 15.000.000
+vice president = 20.000.000
+chief level = 27.000.000
